@@ -24,8 +24,8 @@ After working some years as an employee as a Technical Consultant and as a Data 
 On my website [simonerigoni.net](http://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) about personal projects, software development, data engineering and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
 Learning is a lifelong journey. Here are some of my certifications:
-- [Data Scientist Nanodegree](https://www.udacity.com/certificate/e/c57a3650-1917-11e9-9717-2b962bc64e44)
-- [Data Architect Nanodegree](https://www.udacity.com/certificate/WGUCWDDL)
+- [Udacity Data Scientist Nanodegree](https://www.udacity.com/certificate/e/c57a3650-1917-11e9-9717-2b962bc64e44)
+- [Udacity Data Architect Nanodegree](https://www.udacity.com/certificate/WGUCWDDL)
 <!--- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7a23b2b0-8930-4409-b63a-3460ea040311)-->
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/895f124c-d78f-4bc0-8960-e9a9c390602f)
 <!--- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/63ECBD76F6BAE9D8)-->
