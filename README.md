@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Italian and I currently live in the Netherlands. I graduated in Master’s Degree Computer Engineering - Embedded and Control Systems at the [University of Pavia](https://web.unipv.it/) in 2017.
 
-Even if my university career was mainly focused on Embedded Systems, I got passionate about Python, SQL and how to use data to solve problems so I decided to completely change my working field approaching Data Engineering and Data Science.
+Even if my university career was mainly focused on Embedded Systems, I got passionate about Python, SQL and how to use data to solve problems so I decided to completely change my working field approaching data engineering and data science.
 
 After working some years as an employee as a Technical Consultant and as a Data Engineer I decided to start working exclusively as a remote independent contractor/freelancer.
 
