@@ -36,4 +36,4 @@ Learning is a lifelong journey. Here are some of my certifications:
 <!--- [Databricks Fundamentals](https://credentials.databricks.com/9db42d55-132f-47e5-aabb-cb97efbece37)-->
 - [Databricks Machine Learning Associate](https://credentials.databricks.com/67ad7225-dbba-44fe-9f82-b11c9b4880ab)
 
-For more information you can have a look at my [LinkedIn Services](https://www.linkedin.com/services/page/99425233075a875769/) page.
+For working related information you can have a look at my [LinkedIn Services](https://www.linkedin.com/services/page/99425233075a875769/) page.
