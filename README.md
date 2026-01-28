@@ -21,7 +21,7 @@ Even if my university career was mainly focused on Embedded Systems, I got passi
 
 After working some years as an employee as a Technical Consultant and as a Data Engineer I decided to start working exclusively as a remote independent contractor/freelancer.
 
-On my website [simonerigoni.net](https://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about personal projects, software development, data engineering, and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
+On my website [simonerigoni.net](https://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about personal projects, software development, data engineering and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
 Learning is a lifelong journey. Here are some of my certifications:
 - [Udacity Data Scientist Nanodegree](https://www.udacity.com/certificate/e/c57a3650-1917-11e9-9717-2b962bc64e44)
