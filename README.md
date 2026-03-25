@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am Italian and I currently live in the Netherlands. I graduated in Master’s Degree Computer Engineering - Embedded and Control Systems at the [University of Pavia](https://web.unipv.it/) in 2017.
 
-Even if my university career was mainly focused on Embedded Systems, I got passionate about Python, SQL and how to use data to solve problems so I decided to completely change my working field approaching data engineering and data science.
+Although my academic background is rooted in embedded systems and C is my favorite language, I decided to take the data engineering path by focusing on Python and SQL. 
 
-After working some years as an employee as a Technical Consultant and as a Data Engineer I decided to start working exclusively as a remote independent contractor/freelancer.
+After working several years as a Technical Consultant and Data Engineer, I decided in 2022 to start working exclusively as a remote independent contractor/freelancer. 
 
 On my website [simonerigoni.net](https://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about personal projects, software development, data engineering and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
