@@ -19,7 +19,7 @@ I am Italian and I currently live in the Netherlands. I graduated in Master’s 
 
 Although my academic background is rooted in embedded systems and C is my favorite language, I decided to take the data engineering path by focusing on Python and SQL. 
 
-After working several years as a Technical Consultant and Data Engineer, I decided in 2022 to start working exclusively as a remote independent contractor/freelancer. 
+After working as Technical Consultant and as Data Engineer in different companies, in 2022 I switched to freelancing.
 
 On my website [simonerigoni.net](https://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about personal projects, software development, data engineering and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
