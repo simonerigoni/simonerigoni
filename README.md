@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Italian and I currently live in the Netherlands. I graduated in Master’s Degree Computer Engineering - Embedded and Control Systems at the [University of Pavia](https://web.unipv.it/) in 2017.
+I am Italian and I currently live in the Switzerland. I graduated in Master’s Degree Computer Engineering - Embedded and Control Systems at the [University of Pavia](https://web.unipv.it/) in 2017.
 
 Although my academic background is rooted in embedded systems and C is my favorite language, I decided to take the data engineering path by focusing on Python and SQL. 
 
