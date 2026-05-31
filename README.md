@@ -21,7 +21,7 @@ Although my academic background is rooted in embedded systems and C is my favori
 
 After working as Technical Consultant and as Data Engineer in different companies, in 2022 I switched to freelancing.
 
-Nowadays, my job focuses on architecting the vision and designing the systems, while most code is written by AI coding agents. I retain full responsibility that everything works as expected.
+Nowadays, my job focuses on architecting the vision and designing the systems, while most code is written by AI coding agents. Of course I retain full responsibility that everything works as expected.
 
 On my website [simonerigoni.net](https://www.simonerigoni.net), on [Medium](https://medium.com/@simone-rigoni01) and on [Blogspot](https://simonerigoni01.blogspot.com/) I write posts about personal projects, software development, data engineering and data science related topics. If you like the content I create feel free to buy me a [coffee](https://www.buymeacoffee.com/simonerigoni).
 
