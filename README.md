@@ -41,4 +41,4 @@ Learning is a lifelong journey. Here are some of my certifications:
 For work-related information, you can look at my [LinkedIn Services](https://www.linkedin.com/services/page/99425233075a875769/) page.
 
 ### 🤖 My GitHub Helper
-Routine work and a daily repo digest are handled by [@simonerigoni-gh-helper](https://github.com/simonerigoni-gh-helper), my AI assistant running in [Grok Bot](https://x.ai/bot). It only works on repos I invite it to, and every change goes through a pull request.
+Routine work and a daily repo digest are handled by [@simonerigoni-gh-helper](https://github.com/simonerigoni-gh-helper), my AI assistant running in [Grok Bot](https://x.ai/bot).
