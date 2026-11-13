@@ -31,7 +31,7 @@ Learning is a lifelong journey. Here are some of my certifications:
 <!--- [Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/63ECBD76F6BAE9D8)-->
 <!--- [Microsoft Certified Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/66B926D183CDF3CA)-->
 <!--- [Microsoft Certified Azure Developer Associate](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/E408E6A4212099A4)-->
-- [Microsoft Certified DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/B376A761BE2F28B4)
+- [![Microsoft Certified: DevOps Engineer Expert](https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/B376A761BE2F28B4)
 - [Microsoft Certified Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/en-us/users/simonerigoni-3699/credentials/C882B749E7C728FB)
 <!--- [Databricks Certified Fundamentals](https://credentials.databricks.com/9db42d55-132f-47e5-aabb-cb97efbece37)-->
 <!--- [Databricks Certified Machine Learning Associate](https://credentials.databricks.com/67ad7225-dbba-44fe-9f82-b11c9b4880ab)-->
